@@ -10,14 +10,14 @@ html {
 div {
     border-radius: 25px;
     width: 600px;
-    margin: 20px auto;
+    margin: 50px auto;
     padding: 40px 75px;
     background-color: white
 }
 
 .html {
     border: 2px solid #e44d26;
-    box-shadow: 2px 2px #e05c3b;
+    box-shadow: 2px 2px rgb(231, 97, 64);
 }
 
 .css {
